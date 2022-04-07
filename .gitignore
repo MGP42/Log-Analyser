@@ -1,2 +1,3 @@
 .git*
+_config/
 !.gitignore
